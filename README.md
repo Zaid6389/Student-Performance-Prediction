@@ -32,5 +32,4 @@ To analyze how study hours impact student performance and build predictive model
 - Prediction for 6 hours study: ~60 marks  
 - Pass/Fail probability shown using logistic model  
 
-## 🔗 GitHub Repo
-https://github.com/your-username/project-name
+
